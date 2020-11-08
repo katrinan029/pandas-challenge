@@ -1,7 +1,7 @@
 ## Pandas - Table of Contents
-* [PyCitySchools General Info](#pybank-general-info)
-* [PyCitySchools Task](#pybank-task)
-* [PyCitySchoolsSummary Of Analysis](#pybank-summary-of-analysis)
+* [PyCitySchools General Info](#pycityschools-general-info)
+* [PyCitySchools Task](#pycityschools-task)
+* [PyCitySchoolsSummary Of Analysis](#pycityschools-summary-of-analysis)
 * [Technologies](#technologies)
 
 
